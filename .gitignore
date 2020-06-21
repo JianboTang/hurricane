@@ -47,3 +47,4 @@ Hurricane.config
 *.includes
 *.so
 *timestamp*.txt
+build
